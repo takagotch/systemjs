@@ -1,6 +1,6 @@
 ### systemjs
 ---
-https://github.com/duojs/duo
+https://github.com/systemjs/systemjs
 
 ```
 ```
